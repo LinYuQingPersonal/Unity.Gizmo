@@ -28,6 +28,7 @@ namespace DefaultNamespace
             Gizmos.color = color;
             Gizmos.DrawWireCube(Vector3.one, Vector3.one);
             Gizmos.DrawWireSphere(-Vector3.one,1);
+            
         }
     }
 }
